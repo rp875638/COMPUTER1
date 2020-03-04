@@ -1,2 +1,5 @@
 # COMPUTER1
-A project that explan about the working of the basic computer
+This project was assigned to me for architecture of COMPUTER1.
+COMPUTER1 is a hard wired architecture and their 
+It  consist Control Unit, ALU, Program Counter , Memory  
+It was created with the help of "Logisim" software.
